@@ -1,0 +1,12 @@
+/Users/phenomenal/CodingDojoAssignments/C#/Puzzles/bin/Debug/netcoreapp3.1/Puzzles.deps.json
+/Users/phenomenal/CodingDojoAssignments/C#/Puzzles/bin/Debug/netcoreapp3.1/Puzzles.runtimeconfig.json
+/Users/phenomenal/CodingDojoAssignments/C#/Puzzles/bin/Debug/netcoreapp3.1/Puzzles.runtimeconfig.dev.json
+/Users/phenomenal/CodingDojoAssignments/C#/Puzzles/bin/Debug/netcoreapp3.1/Puzzles.dll
+/Users/phenomenal/CodingDojoAssignments/C#/Puzzles/bin/Debug/netcoreapp3.1/Puzzles.pdb
+/Users/phenomenal/CodingDojoAssignments/C#/Puzzles/obj/Debug/netcoreapp3.1/Puzzles.csprojAssemblyReference.cache
+/Users/phenomenal/CodingDojoAssignments/C#/Puzzles/obj/Debug/netcoreapp3.1/Puzzles.AssemblyInfoInputs.cache
+/Users/phenomenal/CodingDojoAssignments/C#/Puzzles/obj/Debug/netcoreapp3.1/Puzzles.AssemblyInfo.cs
+/Users/phenomenal/CodingDojoAssignments/C#/Puzzles/obj/Debug/netcoreapp3.1/Puzzles.csproj.CoreCompileInputs.cache
+/Users/phenomenal/CodingDojoAssignments/C#/Puzzles/obj/Debug/netcoreapp3.1/Puzzles.dll
+/Users/phenomenal/CodingDojoAssignments/C#/Puzzles/obj/Debug/netcoreapp3.1/Puzzles.pdb
+/Users/phenomenal/CodingDojoAssignments/C#/Puzzles/obj/Debug/netcoreapp3.1/Puzzles.genruntimeconfig.cache
